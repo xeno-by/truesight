@@ -1,0 +1,7 @@
+glob:*.user
+glob:*.suo
+glob:Truesight/bin/
+glob:Truesight/obj/
+glob:Truesight.Playground/bin/
+glob:Truesight.Playground/obj/
+glob:*AssemblyInfo.cs

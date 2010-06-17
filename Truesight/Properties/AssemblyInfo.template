@@ -1,0 +1,14 @@
+﻿using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+
+[assembly: AssemblyTitle("Truesight")]
+[assembly: AssemblyProduct("Truesight")]
+[assembly: AssemblyCopyright("Copyright © 2009-2010 xeno.by")]
+
+[assembly: ComVisible(false)]
+[assembly: InternalsVisibleTo("Truesight.Playground")]
+
+[assembly: Guid("21f76dc9-d3b5-4f65-a057-4a48ff8bc6e6")]
+[assembly: AssemblyVersion("0.0.$WCREV$.0")]
+[assembly: AssemblyFileVersion("0.0.$WCREV$.0")]
