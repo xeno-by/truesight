@@ -1,9 +1,9 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Truesight", "Truesight\Truesight.csproj", "{A381154E-3A98-4D48-8324-64C0AA2A5319}"
-EndProject
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Truesight.Playground", "Truesight.Playground\Truesight.Playground.csproj", "{0DDEC140-E29A-4768-98AE-0579CD3F6539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Truesight", "Truesight\Truesight.csproj", "{A381154E-3A98-4D48-8324-64C0AA2A5319}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XenoGears", "%XENOGEARS%\XenoGears\XenoGears.csproj", "{9435C2AB-D46A-481C-B485-BD74EFAE7D3E}"
 EndProject

@@ -12,10 +12,10 @@ using XenoGears.Versioning;
 [assembly: AssemblyCopyright("Copyright © 2009-2010 xeno.by")]
 
 [assembly: ComVisible(false)]
-[assembly: InternalsVisibleTo("Truesight.Playground")]
+[assembly: InternalsVisibleTo("Truesight.Playground, PublicKey=0024000004800000940000000602000000240000525341310004000001000100a35a4157dd460cace5de5cb76e2a3dd9de2262e971a393d1180f322194ee047056deed924a1ec814d29c9d0f43cdf9794c589738f5aa02316614e2e41ffda8cc98db1e1a2fdd87145086d7692da74bf94b0aecec3bbcec3a7cc063f60530e17ab2d35fb2ae9b8d943803333cb4c5694de1f3ff077440864db3b7d6cce93ef7d7")]
 
 [assembly: Guid("21f76dc9-d3b5-4f65-a057-4a48ff8bc6e6")]
-[assembly: AssemblyVersion("0.0.*")]
+[assembly: AssemblyVersion("0.0.0.0")]
 [assembly: AssemblyBuiltFrom(Repository = "$"CODEBASE"$", Revision = "$REVISION$", CodebaseHash = "$CODEHASH$")]
 [assembly: AssemblyBuiltAt(Timestamp = "$TIMESTAMP$")]
 [assembly: AssemblyBuiltBy(UserHash = "$USERHASH$")]
